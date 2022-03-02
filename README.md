@@ -1,16 +1,20 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mateus Victor Fronza</h1>
-<h3 align="center">A enthisiats in data analysis</h3>
+<h3 align="center">A enthusiast in data analysis</h3>
 
-- 🔭 I’m currently working on **a financial department of a brazilian startup**
+- 🔭 I’m currently working on **a financial department of a brazilian startup** 
+
+- 📚 I'm undergraduate in Economics/Universidade Federal de Santa Catarina
 
 - 🌱 I’m currently learning **Python, SQL and Power BI**
+
+- ⚡ Experience in Excel/Sheets
 
 - 📫 How to reach me **mateusvfronza@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mateusvfronza/](https://www.linkedin.com/in/mateusvfronza/)
 
-- ⚡ Fun fact **i'm almost an economist (last sprint)**
+- ♟️ Fun fact **I like to watch chess but I don’t play well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
