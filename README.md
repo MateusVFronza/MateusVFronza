@@ -10,11 +10,11 @@
 
 - ⚡ Experience in Excel/Sheets
 
-- 📫 How to reach me **mateusvfronza@gmail.com**
+- 📫 How to reach me: **mateusvfronza@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mateusvfronza/](https://www.linkedin.com/in/mateusvfronza/)
 
-- ♟️ Fun fact **I like to watch chess but I don’t play well**
+- ♟️ Fun fact: **I like to watch chess but I don’t play well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
