@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a financial department of a brazilian startup** 
 
-- 📚 I'm undergraduate in Economics/Universidade Federal de Santa Catarina
+- 📚 I'm undergraduate in Economics/Universidade Federal de Santa Catarina (BRA)
 
 - 🌱 I’m currently learning **Python, SQL and Power BI**
 
