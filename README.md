@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mateusvfronza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusvfronza" height="30" width="35" /></a>
-<a href="https://kaggle.com/mateusvfronza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mateusvfronza" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/mateusvfronza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusvfronza" height="30" width="40" /></a>
+<a href="https://kaggle.com/mateusvfronza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mateusvfronza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/mateusvfronza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusvfronza&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvfronza&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusvfronza&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvfronza&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 <!--
