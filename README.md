@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://workspace.google.com/intl/pt-BR/products/sheets/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1011272-LUAC0011912&utm_content=text-ad-none-any-DEV_c-CRE_477535133496-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Sheets_Sheets-KWID_43700057673113431-kwd-11403239008&utm_term=KW_google%20sheets-ST_google%20sheets&gclid=CjwKCAiAyPyQBhB6EiwAFUuakt7rrV5prsikfQ-uS-CEpP23eeRu34dryXB0uVSeXOcsJXUQ1VkuyxoCPQ0QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/images/branding/product/1x/hh_sheets_64dp.png" alt="sheets" width="40" height="40"/> </a> </a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvfronza)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvfronza&theme=graywhite )
 
 <!--
 **MateusVFronza/MateusVFronza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
