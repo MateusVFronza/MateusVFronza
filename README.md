@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **mateusvfronza@gmail.com**
 
-- 📄 Know about my experiences on: [https://www.linkedin.com/in/mateusvfronza/&layout=compact)](https://www.linkedin.com/in/mateusvfronza/)
+- 📄 Know about my experiences on: [linkedin.com/in/mateusvfronza/](https://www.linkedin.com/in/mateusvfronza/)
 
 - ♟️ Fun fact: **I like to watch chess but I don’t play well**
 
