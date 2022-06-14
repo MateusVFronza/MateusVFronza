@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Victor Fronza</h1>
 <h3 align="center">An enthusiast in data analysis</h3>
 
-- 🔭 I’m currently working on **a financial department of a brazilian startup** 
+- 🔭 I’m currently working as **Data Analyst at Franq Open Banking (BR)** 
 
 - 📚 I'm undergraduate in Economics at Universidade Federal de Santa Catarina (BR)
 
