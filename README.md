@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at Franq Open Banking (BR)** 
 
-- 📚 I'm undergraduate in Economics at Universidade Federal de Santa Catarina (BR)
-
-- 🌱 I’m currently learning **Python, SQL and DataViz**
+- 📚 I'm BSc. in Economics at Universidade Federal de Santa Catarina (BR)
 
 - ⚡ Any questions on data analysis? Please let me know and we'll work it out 😁
 
